@@ -1,1 +1,2 @@
 Cambio desde el repositorio de Git
+Cambio local desde el proyecto clonado
