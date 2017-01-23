@@ -1,5 +1,9 @@
 Cambio desde el repositorio de Git
 Cambio local desde el proyecto clonado
+
+ORM´s para JAVA:
 Hibernate y Mybatis
+
+Frameworks de desarrollo para JAVA:
 Spring y EJB
 
