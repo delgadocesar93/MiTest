@@ -2,5 +2,4 @@ Cambio desde el repositorio de Git
 Cambio local desde el proyecto clonado
 Hibernate y Mybatis
 Spring y EJB
-Hibernate y Mybatis
 
